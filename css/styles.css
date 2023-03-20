@@ -1,0 +1,187 @@
+h1 {
+    font-family: 'Niconne', serif;
+    font-size: 90px;
+    color: #498972;
+    margin-bottom: 0;
+    line-height: 1;
+}
+
+div {
+
+    margin-top: 0;
+    margin-bottom: 0px;
+    padding-bottom: 15px;
+}
+
+
+.top {
+   
+    background-color: #FFEBB4;
+    margin: 0;
+ 
+    padding-top: 50px;
+    position: relative;
+
+    width: 100%;
+}
+
+body {
+    margin: 0;
+    text-align: center;
+    font-weight: normal;
+}
+
+.topcloud {
+    position: absolute;
+    right: 130px;
+    top: 100px;
+    width: 9.375rem;
+}
+
+.bottomcloud {
+    position: absolute;
+    bottom: 180px;
+    left: 50px;
+    width: 15.625rem;
+}
+
+.under {
+    text-decoration: underline;
+}
+
+.title {
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #498972;
+    font-size: 25px;
+}
+
+.profile {
+    margin-top: 30px;
+   
+}
+
+h2 {
+    margin-top: 15px;
+    color: #498972;
+    line-height: 2;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+h3{
+    line-height: 2;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #498972;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 10px;
+    height: 0px;
+    border-color: #498972;
+    width: 10%;
+}
+
+.middle-container {
+    padding-bottom: 50px;
+    background-color: white;
+    position: relative;
+
+}
+
+.bottom-container {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #FFEBB4;
+
+
+}
+.mount{
+    width:55%;
+
+
+   
+}
+.footer-link{
+    margin-top: 15px;
+    color:#498972;
+    
+}
+.skill-row{
+    width: 50%;
+    line-height: 2;
+    margin: 100px auto 150px auto;
+    text-align: left;
+
+}
+
+.skilla{
+   
+    float: left;
+    margin-right: 30px;
+}
+.get{
+    padding-top:50px;
+}
+
+.skill{
+    float: right;
+    margin-left: 30px;
+}
+
+.btn {
+    line-height: 4;
+    background: #11cdd4;
+
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 8px;
+    text-shadow: 1px 1px 3px #b391b3;
+    font-family: Courier New;
+    color: #ffffff;
+    font-size: 16px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  .btn:hover {
+    background: #498972;
+    color: white;
+
+    text-decoration: none;
+  }
+
+  p{
+    font-family: 'Roboto Condensed', sans-serif;
+    letter-spacing: 2px;
+    font-size: 18px;
+  }
+  .text{
+    font-family: 'Roboto Condensed', sans-serif;
+ 
+  }
+
+  .social{
+    
+    margin-left: auto;  
+    margin-right: auto;  
+    
+    width: 350px;  
+    text-align: center;  
+    font-size: 20px;  
+  }
+  a{
+    color: #11cdd4;
+    font-family:'Roboto Condensed', sans-serif;
+    text-decoration: none;
+    
+  }
+  a:hover{
+    color: #498972;
+  }
+
+  .copy{
+    font-size: 16px;
+  }
+
+  .skiller{
+    margin-top: 58px;
+  }
